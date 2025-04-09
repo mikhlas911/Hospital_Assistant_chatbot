@@ -1,0 +1,9 @@
+Requirements:
+
+FastApi
+Request
+mysql.connector
+datetime
+smtplib
+MIMEText
+MIMEMutipart
