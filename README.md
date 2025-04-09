@@ -72,7 +72,9 @@ uvicorn backend_code:app --reload
 
 | Chatbot UI | Architecture |
 |------------|--------------|
-| ![chatbot demo](docs/chatbot_demo.gif) | ![architecture](docs/architecture.png) |
+![image](https://github.com/user-attachments/assets/48faeed3-70ff-4a72-a5a5-7f9eb303ba15)
+| ![chatbot d![chatbot in website](https://github.com/user-attachments/assets/4759e37d-5643-465a-a02d-3f0d4103ac85)
+emo](docs/chatbot_demo.gif) | ![architecture](docs/architecture.png) |
 
 ---
 
