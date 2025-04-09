@@ -74,7 +74,12 @@ uvicorn backend_code:app --reload
 |------------|--------------|
 ![image](https://github.com/user-attachments/assets/48faeed3-70ff-4a72-a5a5-7f9eb303ba15)
 | ![chatbot d![chatbot in website](https://github.com/user-attachments/assets/4759e37d-5643-465a-a02d-3f0d4103ac85)
-emo](docs/chatbot_demo.gif) | ![architecture](docs/architecture.png) |
+|![mysql_db_pic1](https://github.com/user-attachments/assets/d3da5296-89a3-4186-8543-71e852a3186f)
+![Doctors_list](https://github.com/user-attachments/assets/f14e74f6-75d0-4997-a53c-ecce5ef7c0e2)
+![Sample_departments](https://github.com/user-attachments/assets/0ec9e49a-7d61-47a7-aedc-03842d618558)
+
+emo](docs/chatbot_demo.gif) | ![architecture](docs/architecture.png) 
+
 
 ---
 
